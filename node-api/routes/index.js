@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const sqlCardapiosEitens = require("../dbCardapiosEitens")
-const sqlClientes = require("../dbClientes")
+const sqlCardapiosEitens = require("../db/dbCardapiosEitens")
+const sqlClientes = require("../db/dbClientes")
 
 
 // curl -X POST -H "Content-Type: application/json" -d '{"nomeUsuario": "", "senha": ""}' http://localhost:3000/inserir-cliente
