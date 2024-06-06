@@ -1,7 +1,10 @@
 # Projeto Sabor Divino
 
-Bem-vindo ao repositório do Projeto Sabor Divino! Este projeto é um sistema completo para um restaurante, abrangendo desde o banco de dados até o servidor (API) que gerencia e manipula os dados. O projeto também inclui uma interface gráfica desktop para gerenciamento de cardápios e itens do restaurante, conectada diretamente ao banco de dados.
-O projeto foi desenvolvido no 2° semestre de 2023 no Curso Técnico de Desenvolvimento de Sistemas COTUCA - UNICAMP, onde fiquei responsavel pela parte back-end do projeto, API Node.js, Banco de Dados SQL, Interface Gráfica Java, enquanto meu parceiro de projeto ficou responsável pelo front-end react app.
+Bem-vindo ao repositório do Projeto Sabor Divino! Este projeto é um sistema completo para um restaurante fictício, abrangendo desde o banco de dados até o servidor (API) que gerencia e manipula os dados. O projeto também inclui uma interface gráfica desktop para gerenciamento de cardápios e itens do restaurante, conectada diretamente ao banco de dados.
+## Tecnologias utilizadas
+- Linguagens de Banco de Dados: SQL e T-SQL para o banco de dados SSMS, Javascript com Node para a API REST, Java para a interface GUI
+- Backend: JavaScript com Node.js para a API REST.
+- App desktop: Java para a interface gráfica conectada ao banco de dados (GUI).
 
 ## Descrição do Projeto
 O Projeto Sabor Divino permite a gestão completa do restaurante, incluindo:
